@@ -1,2 +1,3 @@
 one bug detect and fix it.
-second bug dtetct abnd fix it
+second bug dtetct abnd fix it   
+Third bug fixed also.
