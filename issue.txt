@@ -1,7 +1,5 @@
 1st issue.
 2nd issue
-<<<<<<< HEAD
-3rd issue by master branch
-=======
+
 3rd issue (by bug-fix branch)
->>>>>>> bug-fix
+add new issue (by master)
